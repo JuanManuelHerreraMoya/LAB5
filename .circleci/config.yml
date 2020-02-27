@@ -16,4 +16,4 @@ deployment:
   staging:
     branch: master
     heroku: 
-      appname: JuanManuelHerreraMoya
+      appname: labseis
